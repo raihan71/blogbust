@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-midnight-gradient {
+  background: linear-gradient(
+    to right,
+    rgb(29, 78, 216),
+    rgb(30, 64, 175),
+    rgb(17, 24, 39)
+  );
+}
+
+.container {
+  padding: 2rem;
+}
