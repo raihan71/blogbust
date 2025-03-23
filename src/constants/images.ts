@@ -9,6 +9,8 @@ import travel from './../assets/icons/travel.png';
 import skate from './../assets/icons/skateboarding.png';
 import games from './../assets/icons/sports_esports.png';
 import soccers from './../assets/icons/sports_soccer.png';
+import reactlynx from './../assets/react-logo.png';
+import filter from './../assets/icons/filter_list.png';
 
 export const IMAGE = {
   ICON_HOME: home,
@@ -22,4 +24,6 @@ export const IMAGE = {
   ICON_SKATE: skate,
   ICON_GAMES: games,
   ICON_SOCCERS: soccers,
+  ICON_REACTLYNX: reactlynx,
+  ICON_FILTER: filter,
 };
